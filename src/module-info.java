@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tales
+ *
+ */
+module course {
+}
